@@ -2,14 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Linux Foundation Concepts</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Python</b>
+- <b>Linux</b>
 
 <h2>📝 Certifications</h2>
 
 - INFOSEC Computer Forensics Specialization
+- Google IT Support Professional
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
