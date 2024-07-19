@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Python</b>
+- <b>[File Signature Analysis](https://github.com/mahtokamal/cybesecurityprojects)</b>
 - <b>Linux</b>
 
 <h2>📝 Certifications</h2>
