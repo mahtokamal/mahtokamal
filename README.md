@@ -3,7 +3,12 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[File Signature Analysis](https://github.com/mahtokamal/cybesecurityprojects)</b>
-- <b>Linux</b>
+- <b>[Linux](https://github.com/mahtokamal/Linux_Fundamentals)</b>
+
+<h2>🥇 Achievements:</h2>
+
+- <b>[Digital Forensic Internship](https://www.linkedin.com/posts/kamal-kishor-mahto_digital-forensic-internship-certificate-activity-7153530395110584321-5N3a?utm_source=share&utm_medium=member_desktop)</b>
+- <b>[Cyber Security Internship](https://www.linkedin.com/posts/kamal-kishor-mahto_wireshark-nmap-nessus-activity-7128159734288830464-0-Z9?utm_source=share&utm_medium=member_desktop)</b>
 
 <h2>📝 Certifications</h2>
 
