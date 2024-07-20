@@ -7,7 +7,7 @@
 
 <h2>📝 Certifications</h2>
 
-- INFOSEC Computer Forensics Specialization
+- [INFOSEC Computer Forensics Specialization](https://www.coursera.org/account/accomplishments/specialization/6EEPB5W2S9GD)
 - Google IT Support Professional
 <h2> 📞 Connect with me:</h2>
 
