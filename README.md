@@ -8,7 +8,7 @@
 <h2>📝 Certifications</h2>
 
 - [INFOSEC Computer Forensics Specialization](https://www.coursera.org/account/accomplishments/specialization/6EEPB5W2S9GD)
-- Google IT Support Professional
+- [Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/ESG8ACMBUFVF)
 <h2> 📞 Connect with me:</h2>
 
 [<img align="left" alt="kamal| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
