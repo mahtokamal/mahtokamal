@@ -14,6 +14,7 @@
 
 <h2>📝 Certifications</h2>
 
+- <b>[CyberNowEducation SOC Analyst](https://credential.certifyme.online/verify/0f79719314380)</b>
 - <b>[INFOSEC Computer Forensics Specialization](https://www.coursera.org/account/accomplishments/specialization/6EEPB5W2S9GD)</b>
 - <b>[Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/ESG8ACMBUFVF)</b>
 
