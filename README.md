@@ -1,8 +1,9 @@
 <h1>Hi, I'm Kamal Kishor Mahto! <br/></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- <b>[Honey Pot deployment using Azure](https://github.com/mahtokamal/cybesecurityprojects/blob/main/Honeypot_deployment_using_azure/Honeypot_projects.md)</b>
-- <b>[Automation of Multi-Clouds with Terraform & Checkov Security Integration](https://github.com/mahtokamal/cybesecurityprojects/blob/main/Cloud_Project/Automation of Multi-Clouds with Terraform & Checkov Security Integration.md)</b>
+
+- <b>[Serverless_Monitoring_and_Observability_with_AWS_Lambda_CloudWatch_Logs](https://github.com/mahtokamal/cybesecurityprojects/blob/main/Cloud_Project/Serverless_Monitoring_and_Observability_with_AWS_Lambda_CloudWatch_Logs.md)</b>
+- <b>[Automation_of_Multi-Clouds_with_Terraform_and_Checkov_Security_Integration](https://github.com/mahtokamal/cybesecurityprojects/blob/main/Cloud_Project/Automation_of_Multi-Clouds_with_Terraform_and_Checkov_Security_Integration.md)</b>
 - <b>[Honey Pot deployment using Azure](https://github.com/mahtokamal/cybesecurityprojects/blob/main/Honeypot_deployment_using_azure/Honeypot_projects.md)</b>
 - <b>[Splunk Security Analysis](https://github.com/mahtokamal/cybesecurityprojects/blob/main/Splunk_Security_Analysis/security_analysis_project.md)</b>
 - <b>[Python_file_signature_identification](https://github.com/mahtokamal/cybesecurityprojects/tree/main/Python_file_signature_identification)</b>
