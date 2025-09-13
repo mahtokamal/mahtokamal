@@ -1,4 +1,10 @@
-<h1>Hi, I'm Kamal Kishor Mahto! <br/></h1>
+<h1>👋 Hi, I'm Kamal Kishor Mahto! <br/></h1>
+Aspiring Cybersecurity Professional Practitioner with M.Sc. in Cyber Security | Actively Seeking Entry-Level Opportunities.
+I am Motivated and self-driven cybersecurity enthusiast dedicated to continuous learning and hands-on practice. Actively sharpens skills
+through online CTF challenges, home lab experiments, and staying up to date with industry trends via newsletters and security articles.
+Eager to apply practical knowledge and problem-solving abilities in a professional cybersecurity environment.
+
+I would love to engage and test my cyber security skills into real-worlds that challenges my technical and inter-personal skill and will be a great opportunity to showcase what I am capable of doing.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
